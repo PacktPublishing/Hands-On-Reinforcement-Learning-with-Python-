@@ -8,12 +8,12 @@ The scope of Reinforcement Learning applications outside toy examples is immense
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Advanced hands-on projects to gain insights into your website's performance 
-<LI>Segmentation of visitor and revenue data 
-<LI>Plot cumulative transaction plots to understand the effectiveness of your marketing campaigns 
-<LI>Harness the power of social media analytics to improve your website or business 
-<LI>Use the R-markdown language to generate easy-to-understand PDF reports and dashboards. 
-<LI>Harness the power of social media analytics to improve your website or business </LI></UL></DIV>
+<LI>Spot new opportunities to deploy RL by mastering its core concepts and real-life examples 
+<LI>Learn to identify RL problems by creating a multi-armed bandit environment in Python
+<LI>Deploy the Swiss-army-knife of RL by solving multi-armed and contextual bandit problems 
+<LI>Optimize for long-term rewards by implementing a dynamically programmed agent
+<LI>Plugin a Neural Network into your software agent to learn complex interactions 
+<LI>Combine the advantages of both Monte Carlo and dynamic programming in SARSA </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
